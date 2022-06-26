@@ -1,5 +1,6 @@
 ## EX NO:07
 ## DATE:23.6.22
+
 # <p align="center">Inferencing Propositional Logic Sentences
 
 ## AIM
@@ -111,5 +112,18 @@ wumpus_kb.ask_if_true(~P41)
 ![25](https://user-images.githubusercontent.com/75235090/175758917-a1b07f7e-0864-4ed8-9514-b881778a5331.png)
 ## End of the game:
 ![26](https://user-images.githubusercontent.com/75235090/175758937-bd118486-7374-431a-8ec3-fb71ba5e1871.png)
+ ```
+    
+    
+    
+    
+    
+    
+ 
+    
+    
+ 
+    
+```    
 ## RESULT
 Thus, the developed agent can predict the next move in the wumpus game using propositional logic sentences .
